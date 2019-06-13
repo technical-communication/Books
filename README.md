@@ -8,6 +8,7 @@
 + Docker : [https://yeasy.gitbooks.io/docker_practice/content/](https://yeasy.gitbooks.io/docker_practice/content/)
 + 部署kubernetes集群 : [https://k8s-install.opsnull.com/](https://k8s-install.opsnull.com/)
 + HelloGitHub : [https://gitbook.hellogithub.com/](https://gitbook.hellogithub.com/)
++ Elasticsearch 权威指南（官方）[https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html)
 + Elasticsearch 权威指南（中文版） : [https://es.xiaoleilu.com/index.html](https://es.xiaoleilu.com/index.html)
 + ELKstack 中文指南 : [https://elkguide.elasticsearch.cn/](https://elkguide.elasticsearch.cn/)
 + Redis 中文文档 : [https://wizardforcel.gitbooks.io/redis-doc/content/index.html](https://wizardforcel.gitbooks.io/redis-doc/content/index.html)
