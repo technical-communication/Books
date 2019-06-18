@@ -20,6 +20,7 @@
 + Pro Git（第二版） : [https://bingohuang.gitbooks.io/progit2/content/](https://bingohuang.gitbooks.io/progit2/content/)
 + 鸟哥Linux私房菜（基础学习篇 第四版） : [https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/)
 + Linux Shell脚本学习指南 : [http://c.biancheng.net/shell/](http://c.biancheng.net/shell/)
++ Kali Linux 安全渗透教程 : [https://wizardforcel.gitbooks.io/daxueba-kali-linux-tutorial/content/](https://wizardforcel.gitbooks.io/daxueba-kali-linux-tutorial/content/)
 + 编程之法——面试和算法心得 : [https://wizardforcel.gitbooks.io/the-art-of-programming-by-july/content/index.html](https://wizardforcel.gitbooks.io/the-art-of-programming-by-july/content/index.html)
 + 廖雪峰 JavaScript Python Git 教程 : [https://wizardforcel.gitbooks.io/liaoxuefeng/content/](https://wizardforcel.gitbooks.io/liaoxuefeng/content/)
 + Go语言圣经（中文版） : [https://wizardforcel.gitbooks.io/gopl-zh/content/](https://wizardforcel.gitbooks.io/gopl-zh/content/)
