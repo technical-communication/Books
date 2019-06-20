@@ -26,3 +26,4 @@
 + Go语言圣经（中文版） : [https://wizardforcel.gitbooks.io/gopl-zh/content/](https://wizardforcel.gitbooks.io/gopl-zh/content/)
 + 笨办法学C（中文版） : [https://wizardforcel.gitbooks.io/lcthw/content/](https://wizardforcel.gitbooks.io/lcthw/content/)
 + GitHub 漫游指南 : [http://github.phodal.com/](http://github.phodal.com/)
++ Node.js 实战 : [https://sfantasy.gitbooks.io/node-in-action/content/zh/](https://sfantasy.gitbooks.io/node-in-action/content/zh/)
