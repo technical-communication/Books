@@ -28,3 +28,4 @@
 + GitHub 漫游指南 : [http://github.phodal.com/](http://github.phodal.com/)
 + Node.js 实战 : [https://sfantasy.gitbooks.io/node-in-action/content/zh/](https://sfantasy.gitbooks.io/node-in-action/content/zh/)
 + Microsoft Visual Studio Code 中文手册 : [https://jeasonstudio.gitbooks.io/vscode-cn-doc/content/](https://jeasonstudio.gitbooks.io/vscode-cn-doc/content/)
++ Wireshark 用户手册 : [https://wizardforcel.gitbooks.io/wireshark-manual/content/index.html](https://wizardforcel.gitbooks.io/wireshark-manual/content/index.html)
